@@ -1,0 +1,2 @@
+Total cost: 165235.37
+Execution time: 0.0006 seconds
